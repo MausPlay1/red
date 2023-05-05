@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+ header {
+     background-color: rgb(50,50,145);
+ 
+ padding: 15px;
+ border-radius: 15px;
+ color: burlywood;
+ } 
+ header a {
+text-decoration: none
+;
+color: burlywood;
+border: 1px solid burlywood;
+border-radius: 15px;
+;padding: 5px;
+ }
+ h1 {
+     color: rgb(26,26,126);
+     background-color: rgb(178,225,226);
+      text-align: center;
+      border: 1px solid rgb(16,40,148);
+      width: 500px;
+      margi: auto
+ }
+ 
+  footer {
+      padding: 5px;
+      margin: 16px;
+      text-align: left
+      ;text-decoration: darkblue;
+      border-radius: 14px;
+      color: firebrick;
+  }
